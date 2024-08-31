@@ -1,0 +1,34 @@
+#t1{
+    font-style: italic;
+    color: blueviolet;
+    background-color: aqua;
+}
+
+#t2{
+    font-style: italic;
+    color: rgb(233, 27, 12);
+    flex-direction:initial ;
+    background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+
+
+}
+
+.h2{
+    font-style: unset;
+    color: rgb(15, 14, 14);
+    background-image: radial-gradient(circle, #00DBDE, #FC00FF 100%);
+}
+
+.b2{
+    font-style: unset;
+    color: rgb(90, 37, 28);
+    flex-direction:initial ;
+   background-image: linear-gradient( 90deg,  rgba(2,250,70,1) -1.7%, rgba(2,238,250,1) 21.1%, rgba(174,8,237,1) 46%, rgba(237,8,117,1) 64.2%, rgba(237,8,117,1) 81%, rgba(248,136,0,1) 97.2% );, #FC00FF 100%);width: 100px;
+}
+
+.cl{
+    font-style: unset;
+    color: rgb(253, 15, 126);
+    flex-direction:initial ;
+    background-color: rgba(221, 224, 14, 0.815);
+}
